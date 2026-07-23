@@ -10,3 +10,5 @@ class human:
 human1= human("afa,9,green")
 human1= human("aka,4,red")
 
+dfsdfadfads
+adsfadff
